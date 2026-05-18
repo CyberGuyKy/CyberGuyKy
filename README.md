@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-Security+ and AZ900 Certified
-🔭 I’m currently working on SC-300 Identity and Access Administrator Certification
+Security+ and AZ900 Certified |
+🔭 I’m currently working on SC-300 Identity and Access Administrator Certification |
 🌱 I’m currently learning practical IAM skills like AD, ENTRA ID, SAML and OATH
 
 <!--
