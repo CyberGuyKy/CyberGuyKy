@@ -1,8 +1,9 @@
-## Hi there 👋
+## Kyle Hughes
 
-Security+ and AZ900 Certified |
-🔭 I’m currently working on SC-300 Identity and Access Administrator Certification |
-🌱 I’m currently learning practical IAM skills like AD, ENTRA ID, SAML and OATH
+Security+ SC-300 AZ900 Certified 
+
+
+These labs are designed to simulate real-world workflows of an Identity and Access Management professional working in enterprise environments.
 
 <!--
 **CyberGuyKy/CyberGuyKy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
