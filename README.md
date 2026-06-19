@@ -20,11 +20,23 @@
 
 | Lab Project | Proof | Purpose | Stack | Status |
 | --- | --- | --- | --- | --- |
-| [**KyNet IAM Home Lab**](https://github.com/CyberGuyKy/KyNet-IAM-Lab) | Screenshots Included | Full IAM home lab environment integrating on-premises Active Directory with cloud identity via Entra ID, Keycloak for open-source SSO, and Wazuh for security monitoring and log analysis. | AD · Entra ID · Keycloak · Wazuh · PowerShell | ![In Progress](https://img.shields.io/badge/In_Progress-e3a008?style=flat-square) |
-| [**SC300 Study Lab**](https://github.com/CyberGuyKy/SC300/wiki) | Screenshots Included | Demonstrating Skills aquired studying for the SC300 Exam from the SC-300 Exam Guide by Aaron Guilmette.  Conditional Access, User Provisioning, Access Reviews, Application Identity | AD · Entra ID · Azure · PowerShell | ![Queued](https://img.shields.io/badge/Queued-888888?style=flat-square) |
+| [**KyNet IAM Home Lab**](https://github.com/CyberGuyKy/KyNet-IAM-Lab) | Screenshots Included | Full IAM home lab environment integrating on-premises Active Directory with cloud identity via Entra ID, Keycloak for open-source SSO, and Wazuh for security monitoring and log analysis. | AD · Entra ID · Keycloak · Wazuh · PowerShell | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| [**SC300 Study Lab**](https://github.com/CyberGuyKy/SC300/wiki) | Screenshots Included | Demonstrating Skills aquired studying for the SC300 Exam from the SC-300 Exam Guide by Aaron Guilmette.  Conditional Access, User Provisioning, Access Reviews, Application Identity | AD · Entra ID · Azure · PowerShell | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
 
 
 > **Focus area:** Building and managing identity infrastructure across hybrid environments — bridging on-premises Active Directory with cloud platforms like Microsoft Entra ID and open-source tools like Keycloak. Labs cover the full IAM lifecycle: provisioning, access control, monitoring, and offboarding, with PowerShell automation to reduce manual effort and enforce consistent policy.
+>
+>--- 
+> 
+## Security Monitoring - Threat Detection - Alert Triage
+
+| Lab Project | Proof | Purpose | Stack | Status |
+| --- | --- | --- | --- | --- |
+| [**Microsoft Sentinel**](https://github.com/CyberGuyKy/Microsoft-Sentinel) | Screenshots Included | Created Analytics Rule and Detects brute force pattern - 5+ failed logins followed by a successful login from the same user within 20 minutes | Azure · Defender · Sentinel · KQL | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+
+> **Focus Area:** Create analytics rule to capture a desired alert within Microsoft Defender SIEM and tested the rule with multiple failed log-ins.
+>
+> ---
 
 ##  Certifications
 
