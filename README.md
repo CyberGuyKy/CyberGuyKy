@@ -42,6 +42,7 @@
 | Lab Project | Proof | Purpose | Stack | Status |
 | --- | --- | --- | --- | --- |
 | [**Microsoft Sentinel  Brute Force Attack**](https://github.com/CyberGuyKy/Microsoft-Sentinel/wiki/Micorosft-Defender-and-Sentinel-Exercise) | Screenshots Included | Created Analytics Rule and Detects brute force pattern - 5+ failed logins followed by a successful login from the same user within 20 minutes | Azure · Defender · Sentinel · KQL | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
+| [**Microsoft Sentinel  Privilege Escalation Attack**](https://github.com/CyberGuyKy/Microsoft-Sentinel/wiki/Privilege-Escalation-Alert) | Screenshots Included | Created Analytics Rule that detects any user that is granted the **Global Admin** role | Azure · Defender · Sentinel · KQL | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
 
 > **Focus Area:** Create analytics rule to capture a desired alert within Microsoft Defender SIEM and tested the rule with multiple failed log-ins.
 >
