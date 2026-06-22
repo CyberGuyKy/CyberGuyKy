@@ -27,7 +27,16 @@
 > **Focus area:** Building and managing identity infrastructure across hybrid environments — bridging on-premises Active Directory with cloud platforms like Microsoft Entra ID and open-source tools like Keycloak. Labs cover the full IAM lifecycle: provisioning, access control, monitoring, and offboarding, with PowerShell automation to reduce manual effort and enforce consistent policy.
 >
 >--- 
-> 
+>
+## Active Directory
+>
+| Lab Project | Proof | Purpose | Stack | Status |
+| --- | --- | --- | --- | --- |
+|[**Joiner Powershell Commands**](https://github.com/CyberGuyKy/Active-Directory/wiki/Joiner-%E2%80%90-Powershell) | Screenshots Included | Joiner Powershell commands starting with basic commands to **add a single user**, then creating a **Script** with variables, and finally importing users from a **csv** document | Active Directory · Powershell |   ![In Progress](https://img.shields.io/badge/In_Progress-eab308?style=flat-square) |
+>
+> **Focus Area:** Drilling foundational powershell commands Joiner-Mover-Leaver with progress from basic commands and parameters to scripts
+>
+>---
 ## Security Monitoring - Threat Detection - Alert Triage
 
 | Lab Project | Proof | Purpose | Stack | Status |
