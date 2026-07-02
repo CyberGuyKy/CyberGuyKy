@@ -33,6 +33,7 @@
 | Lab Project | Proof | Purpose | Stack | Status |
 | --- | --- | --- | --- | --- |
 |[**Joiner Powershell Commands**](https://github.com/CyberGuyKy/Active-Directory/wiki) | Screenshots Included | Joiner Powershell commands starting with basic commands to **add a single user**, then creating a **Script** with variables, and finally importing users from a **csv** document | Active Directory · Powershell |   ![In Progress](https://img.shields.io/badge/In_Progress-eab308?style=flat-square) |
+|[**Duo MFA + OpenVPN Remote Access Lab**](https://github.com/CyberGuyKy/duo-vpn/wiki) | Screenshots Included | This project simulates an enterprise VPN remote access architecture where employees authenticate using Active Directory credentials (primary auth) and Duo Security MFA push (secondary auth) before gaining access to internal network resources.| Active Directory · Duo Powershell · OpenVPN · PfSense | ![Complete](https://img.shields.io/badge/Complete-2ea44f?style=flat-square) |
 >
 > **Focus Area:** Drilling foundational powershell commands Joiner-Mover-Leaver with progress from basic commands and parameters to scripts
 >
